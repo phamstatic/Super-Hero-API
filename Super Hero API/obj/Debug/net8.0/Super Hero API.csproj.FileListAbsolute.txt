@@ -1,0 +1,37 @@
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\appsettings.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.staticwebassets.endpoints.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.exe
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.deps.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.runtimeconfig.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Super Hero API.pdb
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.csproj.AssemblyReference.cache
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.AssemblyInfoInputs.cache
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.AssemblyInfo.cs
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.csproj.CoreCompileInputs.cache
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.sourcelink.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\scopedcss\bundle\Super Hero API.styles.css
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets\msbuild.Super Hero API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets\msbuild.Super Hero API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets\msbuild.build.Super Hero API.props
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Super Hero API.props
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Super Hero API.props
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super He.DFB344E9.Up2Date
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\refint\Super Hero API.dll
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.pdb
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\Super Hero API.genruntimeconfig.cache
+C:\Users\John Pham\Documents\GitHub\Super-Hero-API\Super Hero API\obj\Debug\net8.0\ref\Super Hero API.dll
