@@ -62,5 +62,20 @@ namespace Super_Hero_API.Controllers
 
             return Ok(dbHero);
         }
+
+        [HttpDelete]
+        public async Task<ActionResult> DeleteHero(int id)
+        {
+            var dbHero = await _context.SuperHeroes.FindAsync(id);
+
+            if (dbHero == null)
+                return NotFound("This hero does not exist");
+
+            _context.SuperHeroes.Remove(dbHero);
+
+            await _context.SaveChangesAsync();
+
+            return Ok();
+        }
     }
 }
