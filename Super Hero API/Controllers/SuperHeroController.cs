@@ -26,13 +26,23 @@ namespace Super_Hero_API.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<List<SuperHero>>> GetHero(int id)
+        public async Task<ActionResult<SuperHero>> GetHero(int id)
         {
             var hero = await _context.SuperHeroes.FindAsync(id);
             if (hero == null)
                 return NotFound("Hero not found."); // Can also use BadRequest("Hero not found.")
 
             return Ok(hero);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<SuperHero>> AddHero(SuperHero hero)
+        {
+            _context.SuperHeroes.Add(hero);
+
+            await _context.SaveChangesAsync();
+
+            return Ok(await _context.SuperHeroes.ToListAsync());
         }
     }
 }
